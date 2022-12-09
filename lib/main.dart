@@ -43,10 +43,10 @@ class _QuizPageState extends State<QuizPage> {
               Icons.close,
               color: Colors.red,
             ),
-            Icon(
-              Icons.close,
-              color: Colors.red,
-            ),          
+            // Icon(
+            //   Icons.close,
+            //   color: Colors.red,
+            // ),          
   ];
   @override
   Widget build(BuildContext context) {
